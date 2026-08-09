@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "Bot_AFK",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Tortolitaland.aternos.me",
+    "ip": "Tortolitaland.aternos.me:53547",
     "port": 53547,
-    "version": "",
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
