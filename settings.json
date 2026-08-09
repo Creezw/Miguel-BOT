@@ -6,13 +6,13 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Tortolitaland.aternos.me:53547",
+    "ip": "Tortolitaland.aternos.me",
     "port": 53547,
-    "version": "26.2",
+    "version": "1.21.4",
     "try-creative": false
   },
   "position": {
-    "enabled": true,
+    "enabled": false,
     "x": 0,
     "y": 100,
     "z": 0
